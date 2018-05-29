@@ -10,8 +10,7 @@ class Shoe
 
   def cobble
     puts "Your shoe is as good as new!"
-    attr_accessor :codition
-    Shoe.condition = "new"
+
   end
 
 end
